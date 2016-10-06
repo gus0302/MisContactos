@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mis Contactos</string>
+    <string name="nombre">Gustavo Alvarado</string>
+    <string name="telefono">56726622</string>
+    <string name="email">gustaav@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
